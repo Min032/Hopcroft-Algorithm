@@ -1,5 +1,7 @@
-# Hopkroftov algoritam za minimizaciju konačnog automata
+# Hopcroft's algorithm, Minimization Of Deterministic Finite Automata
 
-Seminarski rad, prevođenje programskih jezika
-
-Matematički fakultet, 2019.
+Paper for course: **Compilers** <br>
+Language: **Serbian** <br>
+Written in: **Latex** <br>
+**Faculty of Mathematics, University of Belgrade** <br>
+**2019**
